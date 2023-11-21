@@ -5,6 +5,7 @@
 		<text class="intro">详见：</text>
 		<view>{{test}}</view>
 		<uni-link :href="href" :text="href"></uni-link>
+		<view></view>
 	</view>
 </template>
 
